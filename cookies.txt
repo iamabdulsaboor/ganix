@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+genixcarbon.com	TRUE	/	FALSE	1999999999	_shopify_analytics	:AZoKYxvKAAEAO5Pfwnii5BaqM1R9g_slq_JUDUpF0U1cxOoSsVAF0o1uqkiWrQ:
+genixcarbon.com	TRUE	/	FALSE	1999999999	localization	PK
+genixcarbon.com	TRUE	/	FALSE	1999999999	_shopify_y	396bc3ab-59fa-4d23-9566-d3ccd6b84c81
+genixcarbon.com	TRUE	/	FALSE	1999999999	_shopify_s	10bdfd68-b293-4f1c-8fc5-6276ae856873
+genixcarbon.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZoKYxuiAAEAnKNZeZTM2Qwz2SMV5HkheEJM61yenk7OD7wijwcLy-Vy70Aq0vzi7s7xeXgWkmU1ry7PlbMXwvsdsajR0Pq-XFOWin8ThAp0F8DajmVrXejKxldANv2LONTQytW36ZpbYayZZ-Ctj5IsLVMdPMA19y9aNkQf8N6l4ifrwoPVlQd9LS1mPMOdw1i6jjuNMt2X3Nlq22DNSA3Ye09WvMi-bDCFomZnBZOVzF6toLD6EEA4qGuyL02osKcMqJtlN3I6I2J0a8fH6ES2UMTKi-dKzHi-xue2-2x_B2HxuS5cTnz8u0PWDaFqRgSxvYC4FzHUTBzR7d61_c7t4sJAYp1glHRKXJgDm4rL:
+genixcarbon.com	TRUE	/	FALSE	1999999999	Priority	High
+genixcarbon.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
